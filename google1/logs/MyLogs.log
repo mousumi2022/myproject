@@ -1,0 +1,14 @@
+[INFO ] 2022-05-07 21:38:42.014 [main] Log4JDemo - This is a information message
+[ERROR] 2022-05-07 21:38:42.018 [main] Log4JDemo - This is a error message
+[WARN ] 2022-05-07 21:38:42.018 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-05-07 21:38:42.018 [main] Log4JDemo - This is a fatal message
+[TRACE] 2022-05-07 21:42:11.894 [main] Log4JDemo - This is a trace message
+[INFO ] 2022-05-07 21:42:11.898 [main] Log4JDemo - This is a information message
+[ERROR] 2022-05-07 21:42:11.898 [main] Log4JDemo - This is a error message
+[WARN ] 2022-05-07 21:42:11.898 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-05-07 21:42:11.898 [main] Log4JDemo - This is a fatal message
+[TRACE] 2022-05-07 21:44:55.719 [main] Log4JDemo - This is a trace message
+[INFO ] 2022-05-07 21:44:55.748 [main] Log4JDemo - This is a information message
+[ERROR] 2022-05-07 21:44:55.748 [main] Log4JDemo - This is a error message
+[WARN ] 2022-05-07 21:44:55.749 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-05-07 21:44:55.749 [main] Log4JDemo - This is a fatal message
